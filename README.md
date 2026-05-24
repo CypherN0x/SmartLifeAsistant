@@ -1,3 +1,10 @@
+🇹🇷 Türkçe "Uygulama bireysel geliştirici tarafından yapıldığı için Windows SmartScreen uyarısı verebilir. Bu tamamen dijital sertifika ücretiyle alakalı bir durumdur. Ek Bilgi -> Yine de Çalıştır diyerek güvenle kullanabilirsiniz. Kodlar açık kaynaktır."
+
+🇺🇸 English "Since the application is developed by an independent developer, Windows SmartScreen may show a warning. This is entirely due to digital certificate costs. You can use it safely by clicking More Info -> Run Anyway . The source code is open-source."
+
+🇷🇺 Русский (Rusça) "Поскольку приложение разработано независимым разработчиком, Windows SmartScreen может выводить предупреждение. Это связано исключительно со стоимостью цифрового сертификата. Вы можете безопасно использовать его, нажав Подробнее -> Выполнить в любом случае . Исходный код открыт."
+
+🇪🇸 Español (İspanyolca) "Dado que la aplicación ha sido desarrollada por un desarrollador independiente, Windows SmartScreen puede mostrar bir advertencia. Esto se debe enteramente a los costes del certificado digital. Puede usarla con seguridad haciendo clic en Más información -> Ejecutar de todas formas . El código es de fuente abierta."
 
 🇹🇷 Türkçe README
 SmartLifeAssistant
