@@ -1,0 +1,64 @@
+### 🇹🇷 Türkçe: Teknik Detaylar
+Core Framework & UI Engine
+
+- Python 3.10+ : Temel programlama dili.
+- CustomTkinter : Modern GUI ve High-DPI desteği.
+- Threading : Asenkron görev yönetimi.
+System Integration
+
+- Ctypes (Windows API) : Düşük seviyeli sistem erişimi (Medya tuşları ve Kapatma).
+- Psutil : Gerçek zamanlı CPU/RAM metrikleri.
+- Pycaw : Hassas ses kontrolü.
+Data & External Services
+
+- JSON : Yerel veri depolama.
+- Requests & Pytz : API iletişimi ve küresel zaman dilimi yönetimi.
+- Pillow & QRCode : Görsel işleme ve QR üretimi.
+### 🇺🇸 English: Technical Details
+Core Framework & UI Engine
+
+- Python 3.10+ : Base programming language.
+- CustomTkinter : Modern GUI and High-DPI support.
+- Threading : Asynchronous task management.
+System Integration
+
+- Ctypes (Windows API) : Low-level system access (Media keys and Shutdown).
+- Psutil : Real-time CPU/RAM metrics.
+- Pycaw : Precise audio control.
+Data & External Services
+
+- JSON : Local data persistence.
+- Requests & Pytz : API communication and global timezone management.
+- Pillow & QRCode : Image processing and QR generation.
+### 🇷🇺 Русский: Технические детали
+Ядро и Интерфейс
+
+- Python 3.10+ : Основной язык программирования.
+- CustomTkinter : Современный GUI и поддержка High-DPI.
+- Threading : Асинхронное управление задачами.
+Системная интеграция
+
+- Ctypes (Windows API) : Низкоуровневый доступ к системе (Медиа-клавиши и выключение).
+- Psutil : Метрики CPU/RAM в реальном времени.
+- Pycaw : Точное управление звуком.
+Данные и внешние сервисы
+
+- JSON : Локальное хранение данных.
+- Requests и Pytz : Связь с API и управление часовыми поясами.
+- Pillow и QRCode : Обработка изображений и генерация QR-кодов.
+### 🇪🇸 Español: Detalles Técnicos
+Marco Principal e Interfaz
+
+- Python 3.10+ : Lenguaje de programación base.
+- CustomTkinter : GUI moderna y soporte High-DPI.
+- Threading : Gestión de tareas asíncronas.
+Integración del Sistema
+
+- Ctypes (Windows API) : Acceso al sistema de bajo nivel (Teclas multimedia y Apagado).
+- Psutil : Métricas de CPU/RAM en tiempo real.
+- Pycaw : Control de audio preciso.
+Datos y Servicios Externos
+
+- JSON : Persistencia de datos local.
+- Requests y Pytz : Comunicación API y gestión de zonas horarias globales.
+- Pillow y QRCode : Procesamiento de imágenes y generación de códigos QR.
